@@ -16,5 +16,6 @@ function login() {
     window.location.href = "home.html";
   } else {
     alert("Por favor ingresa un nombre de usuario y contraseña válidos.");
+    console.log()
   }
 }
