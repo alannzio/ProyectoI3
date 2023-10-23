@@ -3,7 +3,7 @@ function login(){
     var pass = document.getElementById("contraseña").value;
 
     if (user === "AumaChi" && pass === "Reportes2024Boc") {
-      window.location.href = "home,html";
+      window.location.href = "home.html";
     } else if (user === "AumaQro" && pass === "Reportes2024Boc") {
       window.location.href = "home.html";
     } else if (user === "AumaSal" && pass === "Reportes2024Boc")
